@@ -1,3 +1,3 @@
-Web3 developer. I work on Solidity, Nextjs, Javascript, Typescript, Tailwind Css. Contributing to lexdao. 
+Web3 developer. I work on Solidity, Nextjs, Javascript, Typescript, Tailwind Css.  
 
 
