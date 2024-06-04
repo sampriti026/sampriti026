@@ -2,7 +2,7 @@
 
 👩‍💻 **About Me**
 - 🚀 An artist by heart. 
-- 🎓 Hacked my law school attendance software to help myself ship products on the side.
+- 🎓 Graduated from a law school with a passion for code.
 - 🌐 Bias towards solving problems that directly impact the lives of people.
 
 📚 **Projects**
