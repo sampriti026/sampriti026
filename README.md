@@ -12,7 +12,7 @@
 - **[Footium](https://github.com/sampriti026/footium-browser)** and **[Footium API](https://github.com/sampriti026/footium-api)**: Projects involving fetching NFTs through the Graph protocol, demonstrating my capabilities with TypeScript and blockchain technologies.
 - **[PurplePay](https://github.com/sampriti026/purplepay)**: A TypeScript project that focuses on payment solutions.
 
-🔗 **I love meeting people on the internet, more so if they like Rick Rubin **
+🔗 **I love meeting people on the internet, more so if they like Rick Rubin.**
 - [Twitter](https://twitter.com/sampriti026)
 
 💡 **I Believe**
