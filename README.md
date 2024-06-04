@@ -1,3 +1,1 @@
-Web3 developer. I work on Solidity, Nextjs, Javascript, Typescript, Tailwind Css.  
-
-
+Founder at heart. Love problem solving. From law to tech. 
